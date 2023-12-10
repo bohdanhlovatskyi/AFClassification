@@ -1,5 +1,8 @@
 .ipynb_checkpoints
-.DS_Score
 sample2017
 training2017
 *.zip
+data.csv
+ExploratoryAnalysis_orig.ipynb
+extracted_features.pkl
+.DS_Store
